@@ -50,6 +50,13 @@
 If you wish to support me, you can see how to do so on [my website](https://sosauce.github.io/support/)
 
 ---
+<h1>🌎 Translation </h1>
+
+<a href="https://hosted.weblate.org/engage/chocola/"><img src="https://hosted.weblate.org/widget/chocola/languages-vanilla/horizontal-auto.svg" alt="Translation status"></a>
+
+[Click here](https://hosted.weblate.org/engage/chocola/) to learn how you can translate the app using Weblate!
+
+---
 
 <h1>⚠️ Copyright</h1>
 
