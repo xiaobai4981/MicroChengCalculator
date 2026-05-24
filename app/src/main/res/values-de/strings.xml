@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Einstellungen</string>
+    <string name="dark_mode">Dunkel</string>
+    <string name="light_mode">Hell</string>
+    <string name="amoled_mode">Amoled</string>
+    <string name="version">Version</string>
+    <string name="update">Nach Update suchen</string>
+    <string name="cc_by_sosauce">Vanilla von sosauce</string>
+    <string name="follow_sys">System</string>
+    <string name="font">Schrift</string>
+    <string name="system">System</string>
+    <string name="back">Zurück</string>
+    <string name="sort">Sortieren</string>
+    <string name="delete">Löschen</string>
+</resources>

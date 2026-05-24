@@ -50,4 +50,10 @@
     <string name="formatting_desc">Rendez les nombres beaux !</string>
     <string name="show_ls">Montrer l\'app sur l\'écran de vérouillage</string>
     <string name="show_ls_desc">L\'app sera utilisable sur l\'écran de vérouillage.</string>
+    <string name="newest_first">Les plus récents en premier</string>
+    <string name="oldest_first">Les plus anciens en premier</string>
+    <string name="no_calc_found">Aucun calcul trouvé !</string>
+    <string name="calc_empty">Allez, lancez le calcul !</string>
+    <string name="colored_operatos">Opérateurs colorés</string>
+    <string name="swap_zero_and_decimal">Inverser le zéro et la virgule</string>
 </resources>
