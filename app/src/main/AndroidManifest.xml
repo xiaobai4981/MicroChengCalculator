@@ -9,9 +9,9 @@
 
 
     <application
-        android:icon="@mipmap/ic_launcher"
-        android:label="Vanilla"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@drawable/icon1"
+        android:label="Micro Cute Calculator"
+        android:roundIcon="@drawable/icon1"
         android:supportsRtl="true"
         android:theme="@style/Theme.CuteSplash"
         tools:targetApi="31">

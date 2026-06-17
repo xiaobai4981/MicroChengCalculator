@@ -16,5 +16,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Vanilla"
+rootProject.name = "MicroChengCalculator"
 include(":app")

@@ -54,19 +54,19 @@ fun AboutCard() {
                     .padding(15.dp)
                     .background(
                         shape = SquircleShape(smoothing = CornerSmoothing.Full),
-                        color = Color(0xFFf4a7bd)
+                        color = Color(0xFFFFFFFF)
                     ),
                 contentAlignment = Alignment.Center
             ) {
                 Icon(
-                    painter = painterResource(R.drawable.calculator),
+                    painter = painterResource(R.drawable.icon1),
                     contentDescription = null,
                     modifier = Modifier.size(50.dp),
-                    tint = Color(0xFFfdd9dc)
+                    tint = Color.Unspecified
                 )
             }
             Column {
-                Text("Vanilla")
+                Text("Micro Cute Calculator")
                 Text(
                     text = "${stringResource(id = R.string.version)} ${context.appVersion}",
                     style = MaterialTheme.typography.bodyMediumEmphasized.copy(
@@ -79,24 +79,24 @@ fun AboutCard() {
                 verticalAlignment = Alignment.Top,
                 modifier = Modifier.padding(end = 15.dp)
             ) {
-                FilledIconButton(
-                    onClick = { uriHandler.openUri(GITHUB_RELEASES) },
-                    shapes = IconButtonDefaults.shapes()
-                ) {
-                    Icon(
-                        painter = painterResource(R.drawable.github),
-                        contentDescription = null
-                    )
-                }
-                FilledIconButton(
-                    onClick = { uriHandler.openUri(SUPPORT_PAGE) },
-                    shapes = IconButtonDefaults.shapes()
-                ) {
-                    Icon(
-                        painter = painterResource(R.drawable.favorite_filled),
-                        contentDescription = null
-                    )
-                }
+//                FilledIconButton(
+//                    onClick = { uriHandler.openUri(GITHUB_RELEASES) },
+//                    shapes = IconButtonDefaults.shapes()
+//                ) {
+//                    Icon(
+//                        painter = painterResource(R.drawable.github),
+//                        contentDescription = null
+//                    )
+//                }
+//                FilledIconButton(
+//                    onClick = { uriHandler.openUri(SUPPORT_PAGE) },
+//                    shapes = IconButtonDefaults.shapes()
+//                ) {
+//                    Icon(
+//                        painter = painterResource(R.drawable.favorite_filled),
+//                        contentDescription = null
+//                    )
+//                }
             }
         }
     }
